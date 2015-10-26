@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">San Agustín Tourism</string>
+    <string name="nombre">San Agustín</string>
+    <string name="nombrepila">San Agustín</string>
+    <string name="action_settings">Settings</string>
+
+
+
+    <string name="title_activity_about_s">About San Agustín</string>
+
+    <string name="SA">San Agustín</string>
+    <string name="Desc">It is a town and municipality of Colombia, located in the south of Huila department.</string>
+    <string name="Hist">In the municipality of San Agustin is located the Archaeological Park of San Agustin, one of the most important archaeological sites in Colombia and It was declared a World Heritage Site by Unesco in 1995.</string>
+    <string name="Datos">Population: 32898.\nAltitude: 1730 m.\nTemperature: 20°C.\nDistance to Neiva: 221 Km.\nDistance to Medellín: 787 Km.\nDistance to Bogotá: 528 Km.\nDistance to Cali: 268 Km.</string>
+
+    <string name="title_activity_bars">Bars</string>
+
+    <string name="CT">Casa Tarzan</string>
+    <string name="CTD">Film-Bar, Restaurant-Bar, Cultural Workshop</string>
+    <string name="CTDir">(+57)321 363 72 85 –  2nd street N. 8 – 16</string>
+    <string name="Amb">Ambrosía Bar</string>
+    <string name="AmbD">Bar-Cafe-Restaurant, Culture, art and good gourmet</string>
+    <string name="AmbDir">(+57)311 287 66 96 - Cr 13 No 6 – 60  Locería street</string>
+    <string name="RK">Rusti.K Music for life</string>
+    <string name="RKD">Video-Bar, Crossover party"</string>
+    <string name="RKDir">(+57)320 232 08 27 – 5 street N. 12 – 25</string>
+    <string name="LS">Discoteca Love Sound</string>
+    <string name="LSD">Bar-Disco</string>
+    <string name="LSDir">(+57)321 275 00 55 – Cr 12 N. 4 – 62</string>
+
+    <string name="title_activity_hotels">Hotels</string>
+
+    <string name="TSA">Terrazas de San Agustín</string>
+    <string name="TSADir">6th street N. 12 – 42 Center</string>
+    <string name="TSAT">Phone. 098 – 8373531</string>
+    <string name="PA">Hotel-Finca Palo Alto</string>
+    <string name="PADir">Kilometer 1 via the Magdalena strait</string>
+    <string name="PAT">fincapaloalto@gmail.com</string>
+    <string name="CP">La casa de los Pensamientos</string>
+    <string name="CPDir">El Purutal sidewalk</string>
+    <string name="CPT">casapensamientos@gmail.com</string>
+    <string name="HCP">Hotel Casa Pampa</string>
+    <string name="HCPDir">El tablón sidewalk</string>
+    <string name="HCPT">Cell phone: 3124481489</string>
+    <string name="FLE">Finca La Estampilla</string>
+    <string name="FLEDir">Kilometer 7 \nSan Agustín - Pitalito</string>
+    <string name="FLET">hectorabravog@yahoo.es</string>
+
+    <string name="title_activity_tourist_sites">Tourist Activities</string>
+
+    <string name="torrent">Rappelling in \nLos tres chorros</string>
+    <string name="Ciclo">Mountain bike\nride</string>
+    <string name="Raft">Rafting and \nextreme sports</string>
+    <string name="Estr">Magdalena river\nstrait</string>
+    <string name="Mac">Travel to Colombian massif</string>
+    <string name="Cab">Ecological and archaeological ride</string>
+    <string name="Parque">Archaeological park</string>
+</resources>

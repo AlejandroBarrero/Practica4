@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="60dp"
+    android:background="#FFFFFF">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:background="#212121"
+        android:orientation="vertical"
+        >
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/tNombre"
+            android:text="@string/nombre"
+            android:textSize="25sp"
+            android:textStyle="bold"
+            android:textColor="#827717"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/tDescripcion"
+            android:text="@string/nombrepila"
+            android:textSize="15sp"
+            android:textStyle="italic"
+            android:textColor="#9E9D24"/>
+
+    </LinearLayout>
+
+    <ImageView
+        android:contentDescription="@string/SA"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="2"
+        android:scaleType="centerCrop"
+        android:id="@+id/imagen"
+        android:src="@drawable/escultura1"/>
+
+
+</LinearLayout>

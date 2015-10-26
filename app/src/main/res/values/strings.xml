@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">San Agustín Turístico</string>
+    <string name="nombre">San Agustín</string>
+    <string name="nombrepila">San Agustín</string>
+    <string name="action_settings">Settings</string>
+
+
+
+    <string name="title_activity_about_s">Sobre San Agustín</string>
+
+    <string name="SA">San Agustín</string>
+    <string name="Desc">Es una población y municipio de Colombia ubicado en el sur del Departamento del Huila.</string>
+    <string name="Hist">En territorio del municipio de San Agustín se encuentra ubicado el parque arqueológico de San Agustín, que es uno de los más importantes espacios arqueológicos de Colombia y fue declarado Patrimonio de la Humanidad por la Unesco en 1995.</string>
+    <string name="Datos">Población: 32898 hab.\nAltitud: 1730 msnm.\nTemperatura: 20°C.\nDistancia a Neiva: 221 Km.\nDistancia a Medellín: 787 Km.\nDistancia a Bogotá: 528 Km.\nDistancia a Cali: 268 Km.</string>
+
+    <string name="title_activity_bars">Bares</string>
+
+    <string name="CT">Casa Tarzan</string>
+    <string name="CTD">Cine-Bar, Restaurante-Bar, Taller cultural</string>
+    <string name="CTDir">(+57)321 363 72 85 –  Calle 2 No. 8 – 16</string>
+    <string name="Amb">Ambrosía Bar</string>
+    <string name="AmbD">Bar-Café-Restaurante, cultura, arte y buen gourmet</string>
+    <string name="AmbDir">(+57)311 287 66 96 - Cr 13 No. 6 – 60 Calle de la Locería</string>
+    <string name="RK">Rusti.K Music for life</string>
+    <string name="RKD">Video-Bar, rumba crossover"</string>
+    <string name="RKDir">(+57)320 232 08 27 – Calle 5 No. 12 – 25</string>
+    <string name="LS">Discoteca Love Sound</string>
+    <string name="LSD">Bar-Discoteca</string>
+    <string name="LSDir">(+57)321 275 00 55 – Cr 12 No. 4 – 62</string>
+
+    <string name="title_activity_hotels">Hoteles</string>
+
+    <string name="TSA">Terrazas de San Agustín</string>
+    <string name="TSADir">Calle 6 No. 12 – 42 Centro</string>
+    <string name="TSAT">Tel. 098 – 8373531</string>
+    <string name="PA">Hotel-Finca Palo Alto</string>
+    <string name="PADir">Kilometro1 vía al estrecho Magdalena</string>
+    <string name="PAT">fincapaloalto@gmail.com</string>
+    <string name="CP">La casa de los Pensamientos</string>
+    <string name="CPDir">vereda El Purutal</string>
+    <string name="CPT">casapensamientos@gmail.com</string>
+    <string name="HCP">Hotel Casa Pampa</string>
+    <string name="HCPDir">Vereda el tablón</string>
+    <string name="HCPT">Cel: 3124481489</string>
+    <string name="FLE">Finca La Estampilla</string>
+    <string name="FLEDir">Kilometro 7 \nSan Agustín - Pitalito</string>
+    <string name="FLET">hectorabravog@yahoo.es</string>
+
+    <string name="title_activity_tourist_sites">Actividades Turísticas</string>
+
+    <string name="torrent">Torrentismo en \nLos tres chorros</string>
+    <string name="Ciclo">Paseo practicando\nCiclomontañismo</string>
+    <string name="Raft">Rafting y \ndeportes extremos</string>
+    <string name="Estr">Estrecho del río\nMagdalena</string>
+    <string name="Mac">Recorrido al Macizo Colombiano</string>
+    <string name="Cab">Cabalgata Ecológica y Arqueológica</string>
+    <string name="Parque">Parque Arqueológico</string>
+</resources>

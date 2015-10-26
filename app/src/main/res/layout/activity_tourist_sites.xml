@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#CCFF90"
+    tools:context="com.alejandrobarrero.practica4.TouristSites">
+
+    <LinearLayout
+        android:baselineAligned="false"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <LinearLayout
+            android:layout_height="match_parent"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:orientation="vertical">
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="@string/torrent"
+                    android:textStyle="bold"
+                    android:textSize="15sp"
+                    android:textColor="#1B5E20"/>
+                <ImageView
+                    android:contentDescription="@string/torrent"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:scaleType="centerCrop"
+                    android:src="@drawable/torrentismo"/>
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="@string/Ciclo"
+                    android:textStyle="bold"
+                    android:textSize="15sp"
+                    android:textColor="#1B5E20"/>
+                <ImageView
+                    android:contentDescription="@string/Ciclo"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:scaleType="centerCrop"
+                    android:src="@drawable/ciclomonta"/>
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="@string/Raft"
+                    android:textStyle="bold"
+                    android:textSize="15sp"
+                    android:textColor="#1B5E20"/>
+                <ImageView
+                    android:contentDescription="@string/Raft"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:scaleType="centerCrop"
+                    android:src="@drawable/rafting"/>
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="@string/Estr"
+                    android:textStyle="bold"
+                    android:textSize="15sp"
+                    android:textColor="#1B5E20"/>
+                <ImageView
+                    android:contentDescription="@string/Estr"
+                    android:layout_width="match_parent"
+                    android:layout_height="0dp"
+                    android:layout_weight="1"
+                    android:scaleType="centerCrop"
+                    android:src="@drawable/estrecho"/>
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_height="wrap_content"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:orientation="vertical">
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/Mac"
+                android:textStyle="bold"
+                android:textSize="15sp"
+                android:textColor="#1B5E20"/>
+            <ImageView
+                android:contentDescription="@string/Mac"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:scaleType="centerCrop"
+                android:src="@drawable/laguna"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/Cab"
+                android:textStyle="bold"
+                android:textSize="15sp"
+                android:textColor="#1B5E20"/>
+            <ImageView
+                android:contentDescription="@string/Cab"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:scaleType="centerCrop"
+                android:src="@drawable/cabalgataarqeco"/>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/Parque"
+                android:textStyle="bold"
+                android:textSize="15sp"
+                android:textColor="#1B5E20"/>
+            <ImageView
+                android:contentDescription="@string/Parque"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:scaleType="centerCrop"
+                android:src="@drawable/parquearq"/>
+        </LinearLayout>
+
+    </LinearLayout>
+
+</ScrollView>
